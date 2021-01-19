@@ -1,4 +1,9 @@
-Usage:
+# Java Smallest Scope Extractor
+
+Extracts smallest scope (parsable code) given a hunk, defined by start and end line.
+Output is printed to console.
+
+## Usage
 
 build from scratch using maven:
 `mvn package -f "java/pom.xml"`
